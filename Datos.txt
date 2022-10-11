@@ -1,3 +1,4 @@
-Nombre: Samuel Montes Guevara
-Edad: 16
-Correo: samuelmontes1105@gmail.com
+Nombre          : Samuel Montes Guevara
+Edad            : 16
+Correo          : samuelmontes1105@gmail.com
+Color Favorito  : Negro
